@@ -47,6 +47,48 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood",
         acesso: "https://www.crunchyroll.com/pt-br/series/GRDV00020/fullmetal-alchemist-brotherhood",
         tags: "corpo alquimia medieval morte luto"
+    },
+    {
+        titulo: "Attack on Titan",
+        descricao: "Em um mundo onde gigantes humanoides, os Titãs, devoram humanos, Eren Yeager jura exterminá-los após a morte de sua mãe. Juntamente com seus amigos, ele se junta ao Exército para treinar e lutar contra os Titãs.",
+        link: "https://pt.wikipedia.org/wiki/Shingeki_no_Kyojin",
+        acesso: "https://www.crunchyroll.com/pt-br/series/GR751KNZY/attack-on-titan?srsltid=AfmBOoqM4aPVpO4a2LWhW9453JPkpO3UuB4lg_2AHafEXDYatSvvyIOE",
+        tags: "titãs gigante ação sobrevivência mistério shingeki kyojin"
+    },
+    {
+        titulo: "One Piece",
+        descricao: "Luffy, um jovem pirata com o sonho de se tornar o Rei dos Piratas, embarca em uma grande aventura em busca do tesouro One Piece. Ao longo de sua jornada, ele reúne uma tripulação e enfrenta diversos desafios.",
+        link: "https://pt.wikipedia.org/wiki/One_Piece",
+        acesso: "https://www.crunchyroll.com/pt-br/series/GRMG8ZQZR/one-piece?srsltid=AfmBOopGKHfFcSQeVOJWUl_tiy3Ueea4UFy1FeiOX3WVgwbWMms2R9tm",
+        tags: "piratas aventura comédia ação shounen"
+    },
+    {
+        titulo: "Os Cavaleiros do Zodíaco",
+        descricao: "Cinco jovens guerreiros, os Cavaleiros de Bronze, são escolhidos para proteger a reencarnação da deusa Atena em suas batalhas contra forças do mal.",
+        link: "https://pt.wikipedia.org/wiki/Os_Cavaleiros_do_Zodíaco",
+        acesso: "https://www.crunchyroll.com/pt-br/series/GRJQVJNXY/saint-seiya?srsltid=AfmBOoq-2Af4eIt9vda4Iu7iER37aG6CHCFj8YauSzhgMAu-rc8oAqtU",
+        tags: "mitologia shounen ação fantasia"
+    },
+    {
+        titulo: "Bleach",
+        descricao: "Ichigo Kurosaki, um adolescente que pode ver espíritos, se torna um Shinigami substituto e luta contra Hollows, espíritos malignos que devoram almas humanas.",
+        link: "https://pt.wikipedia.org/wiki/Bleach_(mangá)",
+        acesso: "https://www.crunchyroll.com/pt-br/series/G63VGG2NY/bleach?srsltid=AfmBOopoI6AWunSq4pJgyxxPKfecpzyPKW4UluAW3Muos-Nvb_eQ1g0l",
+        tags: "shinigami espiritos ação sobrenatural"
+    },
+    {
+        titulo: "Yu Yu Hakusho",
+        descricao: "Yusuke Urameshi, um delinquente adolescente, morre e é enviado para uma dimensão espiritual. Após provar seu valor, ele retorna à vida com a missão de proteger o mundo humano.",
+        link: "https://pt.wikipedia.org/wiki/Yu_Yu_Hakusho",
+        acesso: "https://www.crunchyroll.com/pt-br/series/GR9PKENW6/yu-yu-hakusho?srsltid=AfmBOoqo2EKBEtPTnT98qYJdQvHF7ncNsKx6iEwqSRaxHNuealnEDkut",
+        tags: "shounen ação sobrenatural demônios"
+    },
+    {
+        titulo: "Haikyu!!",
+        descricao: "Shoyo Hinata, um garoto baixo, se apaixona pelo vôlei após assistir um jogo de um jogador talentoso. Ele entra para o clube de vôlei da escola e busca se tornar um jogador de destaque.",
+        link: "https://pt.wikipedia.org/wiki/Haikyu!!",
+        acesso: "https://www.crunchyroll.com/pt-br/series/GY8VM8MWY/haikyu?srsltid=AfmBOoo44qT9WMDdrou1_ulrBhNHDidw-tJt4tZF9R7Ve_cyLeU1_1fb",
+        tags: "esportes vôlei amizade superação"
     }
 ];
 
